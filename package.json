@@ -1,0 +1,15 @@
+{
+  "name": "credit_card-1lvl",
+  "source": "index.html",
+  "scripts": {
+    "start": "parcel ./src/index.html --no-cache",
+    "build": "parcel build ./src/index.html --no-cache"
+  },
+  "author": "Alina Borisova",
+  "dependencies": {
+    "redom": "^3.29.1"
+  },
+  "devDependencies": {
+    "parcel": "^2.8.3"
+  }
+}
